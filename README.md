@@ -1,1 +1,1 @@
-# odin-recipes
+Basic detailing of the project plus proof of HTML and Git/GitHub knowledge
